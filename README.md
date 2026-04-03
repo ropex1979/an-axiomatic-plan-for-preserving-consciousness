@@ -119,3 +119,15 @@ Continuous monitoring, auditing and adaptation.
 Focus on long-term sustainability and expansion beyond the cradle.
 
 I see where I live. I see where we're going. I see another way.
+
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **CC BY-NC-ND 4.0** (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International).
+
+- **Educational use only**: You can use this for learning.
+- **No Derivatives**: You are **not allowed** to modify or redistribute changed versions of this code.
+- **Non-Commercial**: You cannot sell or use this code for profit.
+- **Attribution**: You must credit the author.
