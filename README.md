@@ -81,7 +81,15 @@ Within the educational and social system, honor is awarded to those who contribu
 Shame is not personal, but is attached to the action - not to the individual, but to harmful behavior.
 Honor is available to all - not as an inheritance, but as a result of contributions.
 
-18. Self-sustaining evolution-victory
+18.preservation of identity
+Artistic Metacriterion: Explicitly list cultural and artistic diversity as part of the "best potential".
+Cultural Sustainability Fund: Dedicated resources for the preservation of languages, music, rituals and crafts.
+Mandatory cultural courses in Formatrix: Personalized exposure to local traditions and creative practices.
+Grants and residencies: Financial support for artists from diverse communities, with quotas for minorities.
+Culture of Exchange: Programs for rotating artistic activities between the core and the periphery.
+Impact metrics: Indicators for cultural diversity, frequency of practices, number of documented traditions and level of participation.
+
+19. Self-sustaining evolution-victory
 The system continues to develop and adapt without constant external interference, always remaining faithful to the original axiom
 with mandatory pre-mortem analysis and structural acceptance of paradoxes (e.g., the balance between efficiency and dignity).
 
