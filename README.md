@@ -10,8 +10,7 @@ Goal (axiom under ethical supervision)
 Survival and further evolution of humanity through the preservation and expansion of its best genetic and spiritual potential.
 The goal must pass pre-mortem analysis: "Would we accept this goal even if it could not be achieved ethically?" If not, the goal is redefined.
 
-ground zero: FIGHT CLUB RULE ONE! active until the tipping point of reaching a critical mass of 15%
-symbol: circle with a dot in the middle Unicode code: U+2299
+Symbol & trigger: Ground Zero — circle with dot (U+2299); Rule One (temporary discretion) prioritize collective security and discretion until critical mass (15%) is reached, with defined legal and ethical limits.
 
 1.Ethical foundation
 Procedural ethics (Dušan's Code 2.0) is a mandatory pre-filter for every decision and action.
@@ -25,15 +24,16 @@ Borders, centralized governments and free capital are abolished. Directed migrat
 Restructuring. Compartmentalization and diversification of the system to prevent the concentration of power. Decentralized interpretation of axioms - multiple voices (including those from the periphery) participate in defining what "survival" and "the spirit of humanity" mean.
 
 4.Transparency
-Complete openness of all key data and decisions after establishing stable control.
+Transparency principle: complete openness of key data and decisions after stable control is demonstrably established, subject to privacy safeguards and legal review.
 
 5.Filter
 A strict selection based on the highest standards of ethics and logic. Separates those who carry the seeds for the stars from those who remain to guard the base and the planet.
-not excluded forever their descendants can pass the filter if they meet active criteria
+not excluded forever their descendants can pass the filter if they meet active criteria.
+Include diversity (genetic, cultural, epistemological) as an explicit criterion.
+
+6. mechanism:
 Formatrix (AI Nanny)
 From early childhood, the AI ​​serves as a personalized mentor with the mandatory involvement of parents. Its role is to instill Covenant norms and guide each individual towards maximum development, under the supervision of the mandatory 'Devil's Advocate' step for each key decision.
-
-6.Mechanism
 Guardian of the Guardians (Reciprocal Surveillance)
 A triangle of mutual control of power is established:
 AI monitors biometric and logical consistency of people.
@@ -52,7 +52,7 @@ Nuclear, solar and hydropower with a priority on efficiency and long-term sustai
 or until a better energy system is discovered
 
 10. AI is a tool!
-AI is a decentralized tool and protocol keeper with hard-coded procedural ethics, a red line and a kill switch mechanism. Its legitimacy is based on Kant's categorical imperative: never act in such a way that you cannot at the same time will your tool to be a universal law. Uses edge computing and energy efficient models (FP8, RAG) to reduce consumption.
+AI is a decentralized tool and protocol keeper with hard-coded procedural ethics, a red line and a kill switch mechanism. Its legitimacy is based on Kant's categorical imperative: never act in such a way that you cannot at the same time will your tool to be a universal law. Uses edge computing and energy efficient models (FP8, RAG) to reduce consumption.Implement verified, redundant hardware/software mechanisms for AI-ethics and switches.
 
 11.Ego Neutralization
 A mandatory rotating role of “Guardian of Doubt” that actively blocks decisions driven by ego or self-interest.
@@ -62,10 +62,7 @@ No one’s self is more valuable than all of us
 Conscious sabotage of the Filter or Covenant leads to neutralization without violence – isolation, or exclusion from the system, with a transparent explanation and the right to defend. Rehabilitation. Those who fail the Filter are directed towards goal realization through cultivation and contribution to the base.
 
 13.Exit Node
-Any participant (human or AI) can raise an emergency alarm outside the system if they assess that basic ethical principles have been violated. This node is:
-Anonymous,
-Auditable,
-Subject to verification by an independent ethics council operating offline and without access to the central system.
+anonymous, auditable emergency alarm allowing any participant (human or AI) to report ethical violations; verification by independent offline ethics council without central access.
 
 14.Rotating role system
 All members of the Base periodically go through the roles: Executor, Supervisor, Guardian of Doubt.
