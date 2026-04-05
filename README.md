@@ -85,7 +85,7 @@ Honor is available to all - not as an inheritance, but as a result of contributi
 Artistic Metacriterion: Explicitly list cultural and artistic diversity as part of the "best potential".
 Cultural Sustainability Fund: Dedicated resources for the preservation of languages, music, rituals and crafts.
 Mandatory cultural courses in Formatrix: Personalized exposure to local traditions and creative practices.
-Grants and residencies: Financial support for artists from diverse communities, with quotas for minorities.
+support for artists from diverse communities, with quotas for minorities.
 Culture of Exchange: Programs for rotating artistic activities between the core and the periphery.
 Impact metrics: Indicators for cultural diversity, frequency of practices, number of documented traditions and level of participation.
 
