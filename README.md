@@ -91,7 +91,33 @@ Impact metrics: Indicators for cultural diversity, frequency of practices, numbe
 
 19. Self-sustaining evolution-victory
 The system continues to develop and adapt without constant external interference, always remaining faithful to the original axiom
-with mandatory pre-mortem analysis and structural acceptance of paradoxes (e.g., the balance between efficiency and dignity).
+with mandatory pre-mortem analysis and structural acceptance of paradoxes (e.g., the balance between efficiency and dignity).---
+---
+
+-what must not be questioned
+
+Right to life and bodily integrity: No decision has the right to deprive or irreversibly harm an individual's life or body. That is a red line.
+Zero tolerance for torture and coercion: No one may use physical or psychological torture, forced medical procedures or blackmail. End of discussion.
+Right to a fair trial and defense: Any measure that restricts freedom must have documented reasons, the right to a lawyer and a clear, time-limited appeal procedure. No exceptions.
+Prohibition of discrimination: Decisions are not made on the basis of race, gender, religion or immutable characteristics. Criteria must be relevant, axiomatic and demonstrable.
+Privacy and minimal data collection: We only take what the mission cannot do without; all data is encrypted, with access records and independent audit.
+Right to rehabilitation and a dignified life.
+Non-refoulement clause: These provisions cannot be revoked by any internal decision; suspension requires an independent, verified threat and external oversight.
+
+Filter:
+
+Purpose: We select people for the mission — efficiently, fairly, and without compromising the rights listed above.
+Criteria: functional health, proven team behavior, ethical reasoning, useful skills, clearly stated consent. Mandatory quotas for genetic, cultural, and epistemological diversity.
+Process:
+Application/Proposal: Individual or joint, we do not work behind anyone’s back
+Quick Preliminary Check: Minimal data.
+Dilemma Lab: Realistic simulations; human and AI panel evaluation.
+Guardian of Doubt: Rotating guardian with the right to request additional investigation.
+Independent Review: Every exclusion is subject to mandatory review by an independent panel within a set timeframe.
+Final Decision and Appeal: Decision is published anonymously. Appeals are resolved publicly.
+Safeguards: Maximum isolation time; everyone has a rehabilitation plan; public, anonymous reports on the system’s performance; no lifetime bans, anyone can try again.
+Emergency Use: Only with a verified existential threat and with immediate external review — unnecessary accelerations are not tolerated.--
+---
 
 
 system implementation 
