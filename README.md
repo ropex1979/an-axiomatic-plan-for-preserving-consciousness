@@ -10,20 +10,22 @@ Goal (axiom under ethical supervision)
 Survival and further evolution of humanity through the preservation and expansion of its best genetic and spiritual potential.
 The goal must pass pre-mortem analysis: "Would we accept this goal even if it could not be achieved ethically?" If not, the goal is redefined.
 
-Symbol & trigger: Ground Zero — circle with dot (U+2299); Rule One (temporary discretion) prioritize collective security and discretion until critical mass (15%) is reached, with defined legal and ethical limits.
+Symbol & trigger: Ground Zero — circle with dot (U+2299);
 
-1.Ethical foundation
+basic rule. FIRST RULE OF FIGHT CLUB (temporary discretion) prioritize collective security and discretion until critical mass (15%) is reached, with defined legal and ethical limits.
+
+1.Ethical foundation:
 Procedural ethics (Dušan's Code 2.0) is a mandatory pre-filter for every decision and action.
 It is inspired by the historical principle that the Law is above the Ruler (1349), but has been upgraded for the digital era.
 Ethics is no longer instrumental, but an independent criterion.
 
-2.Abolition of old structures
+2.Abolition of old structures:
 Borders, centralized governments and free capital are abolished. Directed migration and free mixing of genes. no one has everything, we all have enough.
 
-3.New structure
+3.New structure:
 Restructuring. Compartmentalization and diversification of the system to prevent the concentration of power. Decentralized interpretation of axioms - multiple voices (including those from the periphery) participate in defining what "survival" and "the spirit of humanity" mean.
 
-4.Transparency
+4.Transparency:
 Transparency principle: complete openness of key data and decisions after stable control is demonstrably established, subject to privacy safeguards and legal review.
 
 5.Filter
@@ -41,13 +43,13 @@ Random teams from the Base monitor the ethical parameters of the AI ​​system
 A rotating 'Guardian of Doubt' (obligatory Devil's Advocate) actively challenges decisions at all levels.
 No one has absolute power.
 
-7. Defense
+7. Defense:
 All resources are defended. Weapons are used exclusively for defense. We do not appropriate other people's.
 
-8. Resource allocation
+8. Resource allocation:
 Most of the available resources go to the space program, with a guarantee of dignified satisfaction of the basic needs of all residents.
 
-9. Energy
+9. Energy:
 Nuclear, solar and hydropower with a priority on efficiency and long-term sustainability. Introduction of small modular reactors (SMRs) and available solar systems with thermal storage for stable power supply of AI infrastructure.
 or until a better energy system is discovered
 
