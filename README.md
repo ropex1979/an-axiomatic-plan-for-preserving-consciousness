@@ -1,18 +1,25 @@
 working title: Filter-seeds                           by-ropex1979
 
 Operational code: From mud to stars
+---
 FOUNDATIONAL COVENANT
-We humans will not let the worst in us win. Every decision, technology and structure must pass the test of ethics of means and ends.
+We humans will not let the worst in us win.
+---
+Every decision, technology and structure must pass the test of ethics of means and ends.
 The goal is not absolute, but must be in accordance with universal moral principles.
 "That which we can verify, test and accept as necessary for the survival of the species, regardless of current culture, ego or short-term interest."
 
 Goal (axiom under ethical supervision)
 Survival and further evolution of humanity through the preservation and expansion of its best genetic and spiritual potential.
+---
 The goal must pass pre-mortem analysis: "Would we accept this goal even if it could not be achieved ethically?" If not, the goal is redefined.
+
 
 Symbol & trigger: Ground Zero — circle with dot (U+2299);
 
+
 basic rule. FIRST RULE OF FIGHT CLUB (temporary discretion) prioritize collective security and discretion until critical mass (15%) is reached, with defined legal and ethical limits.
+---
 
 1.Ethical foundation:
 Procedural ethics (Dušan's Code 2.0) is a mandatory pre-filter for every decision and action.
