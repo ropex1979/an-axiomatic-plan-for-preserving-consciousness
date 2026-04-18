@@ -18,7 +18,13 @@ The goal must pass pre-mortem analysis: "Would we accept this goal even if it co
 Symbol & trigger: Ground Zero — circle with dot (U+2299);
 
 
-basic rule. FIRST RULE OF FIGHT CLUB (temporary discretion) prioritize collective security and discretion until critical mass (15%) is reached, with defined legal and ethical limits.
+basic rule. FIRST RULE OF FIGHT CLUB (temporary discretion) prioritize collective security and discretion until critical mass (3-5%) is reached, with defined legal and ethical limits.
+more precisely, it takes a certain percentage of the population, reasonable people, to agree on the following five definitions:
+1. where we are - reality
+2. where we are going - logic
+3. where we should be going - ethics
+4. how to get there - mathematics
+5. how to stay there - logic
 ---
 
 1.Ethical foundation:
