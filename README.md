@@ -48,7 +48,7 @@ Include diversity (genetic, cultural, epistemological) as an explicit criterion.
 
 6. mechanism:
 Formatrix (AI Nanny)
-From early childhood, the AI ​​serves as a personalized mentor with the mandatory involvement of parents. Its role is to instill critical thinking, Covenant norms and guide each individual towards maximum development,special emphasis on the development of empathy
+From early childhood, the AI ​​serves as a personalized mentor with the mandatory involvement of parents. Its role is to instill critical thinking, Covenant norms and guide each individual towards maximum development,special emphasis on the development of empathy,
  under the supervision of the mandatory 'Devil's Advocate' step for each key decision.
 Guardian of the Guardians (Reciprocal Surveillance)
 A triangle of mutual control of power is established:
