@@ -48,7 +48,8 @@ Include diversity (genetic, cultural, epistemological) as an explicit criterion.
 
 6. mechanism:
 Formatrix (AI Nanny)
-From early childhood, the AI ​​serves as a personalized mentor with the mandatory involvement of parents. Its role is to instill critical thinking, Covenant norms and guide each individual towards maximum development, under the supervision of the mandatory 'Devil's Advocate' step for each key decision.
+From early childhood, the AI ​​serves as a personalized mentor with the mandatory involvement of parents. Its role is to instill critical thinking, Covenant norms and guide each individual towards maximum development,special emphasis on the development of empathy
+ under the supervision of the mandatory 'Devil's Advocate' step for each key decision.
 Guardian of the Guardians (Reciprocal Surveillance)
 A triangle of mutual control of power is established:
 AI monitors biometric and logical consistency of people.
@@ -56,17 +57,17 @@ Random teams from the Base monitor the ethical parameters of the AI ​​system
 A rotating 'Guardian of Doubt' (obligatory Devil's Advocate) actively challenges decisions at all levels.
 No one has absolute power.
 
-7. Defense:
+8. Defense:
 All resources are defended. Weapons are used exclusively for defense. We do not appropriate other people's.
 
-8. Resource allocation:
+9. Resource allocation:
 Most of the available resources go to the space program, with a guarantee of dignified satisfaction of the basic needs of all residents.
 
-9. Energy:
+10. Energy:
 Nuclear, solar and hydropower with a priority on efficiency and long-term sustainability. Introduction of small modular reactors (SMRs) and available solar systems with thermal storage for stable power supply of AI infrastructure.
 or until a better energy system is discovered
 
-10. AI is a tool!
+11. AI is a tool!
 AI is a decentralized tool and protocol keeper with hard-coded procedural ethics, a red line and a kill switch mechanism. Its legitimacy is based on Kant's categorical imperative: never act in such a way that you cannot at the same time will your tool to be a universal law. Uses edge computing and energy efficient models (FP8, RAG) to reduce consumption.Implement verified, redundant hardware/software mechanisms for AI-ethics and switches.
 
 11.Ego Neutralization
